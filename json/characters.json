@@ -1,0 +1,212 @@
+[
+       {
+               "name": "Goku",
+               "image": "img/characters/goku.png",
+               "wip": false,
+               "sentence": "Pure-hearted like no other, Goku is all about finding strong opponents to further improve his god-like fighting abilities. And eating lots of food.",
+               "description": "Goku marks the beginning of the Z2 era, where Dragonball characters are finally done justice in Mugen! No more 1-button-press-100-hit beams, no overly flashy and pointless transformations, no midget characters compared to Street Fighters, no eardrum-shattering sound effects. Just pulse-pounding, fast-paced, exciting, easy-to-pick-up, hard-to-master gameplay. Original and fluidly animated sprites. Tons of fan service. A load of fun palettes. This is where it's at, fighting game fans! Now, DBZ characters are finally worth your time.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/GokuZ2.rar",
+               "gifs": ["img/characters/gifs/GokuG.gif",
+                        "img/characters/gifs/GokuG2.gif"],
+               "dlcLinks": ["#"],
+               "dlcText": ["Japanese voice"]
+        },
+        {
+               "name": "SSJ Goku",
+               "image": "img/characters/ssj-goku.png",
+               "wip": false,
+               "sentence": "The last beacon of hope standing against the most powerful villains that threaten the universe harm. SSJ Goku'll show 'em. He might learn a new technique or two!",
+               "description": "We stood our ground and did not give Goku an ingame-transformation, however, we made a completely seperate character for Super Saiyan Goku! This is no mere headswap, yo. SSJ Goku brings in the teleports!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/SSJ_GokuZ2.rar",
+               "gifs": ["img/characters/gifs/SSJGokuG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Vegeta",
+               "image": "img/characters/vegeta.png",
+               "wip": false,
+               "sentence": "The Prince of Saiyans! With an intellect unmatched and a pride that's indestructable, Vegeta always comes back to show who's the boss.",
+               "description": "As with Goku, this is in our eyes the best Vegeta character we could make. It's got all his moves and traits and then some. This also marked the first time we started using custom voice actors for our characters, making this Vegeta even more unique amongst the flock. In this case, we were lucky to work with the magnificent Rice Pirate! This Vegeta doesn't hold back, be on your guard at all times! It's projectiles ahoy, so loosen up those fingers if you want to stand a chance against the Prince!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/VegetaZ2.rar",
+               "gifs": ["img/characters/gifs/VegetaG.gif",
+                        "img/characters/gifs/VegetaG2.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Majin Vegeta",
+               "image": "img/characters/majin-vegeta.png",
+               "wip": false,
+               "sentence": "There's one thing a Saiyan ALWAYS keeps! His PRIIIIIIIDE!!!",
+               "description": "Released May 18th 2015. Majin Vegeta is quite different from Normal Vegeta! A gets a whole new moveset and newly recorded voice curtousy of Rice Pirate. Both his and base Vegeta's spriteset are also completely revamped.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/VegetaZ2.rar",
+               "gifs": ["img/characters/gifs/MajinVegetaG"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Gohan",
+               "image": "img/characters/gohan.png",
+               "wip": false,
+               "sentence": "Everyone knows half-bloods are some of the most beautiful and skillful people around! Such is true for Gohan, part Saiyan, part human, possessing the best of both worlds!",
+               "description": "Ah Gohan, what a project this was! After being shoved aside for a long period of time due to disinterest, he was then picked up by the coder again, which resparked my own interest in the character to take up his sprites again, even redrawing just about all of them. This resulted in Gohan being one of the best-looking Z2 characters to date, not to mention he is hella-fun to play with. Give this half-blood a spin, you'll find he has a whole bunch of tricks up his sleeve!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/GohanZ2.rar",
+               "gifs": ["img/characters/gifs/GohanG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Freeza",
+               "image": "img/characters/freeza.png",
+               "wip": false,
+               "sentence": "The Tyrant, master planet-trader, Lord Frieza!",
+               "description": "The absolute sexiest version of Freeza featuring ShockDingo's voice!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/FreezaZ2.rar",
+               "gifs": ["img/characters/gifs/FreezaG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Tenshinhan",
+               "image": "img/characters/tenshinhan.png",
+               "wip": false,
+               "sentence": "Never surrendering, never stopping to aim higher, TenShinHan's tired muscles are sore but he knows what he strives for, to be unchained. His third eye tracks anything coming his way, if he is to be a mere pothole on your voyage, he shall be the biggest one you ever found.",
+               "description": "Who's got 3 eyes, 4 arms and a little helper following him around? This guy! While this took quite a lot of time, just shy of 2 years of development, the result we think is as good as always, perhaps even better. Tien has quite an arsenal of moves to play around with including a Hover Mode of sorts and of course his friend Chiaotzu to aid him. If you prefer to fight without Chiaotzu, enter Om Mode and it'll be Tien on his own, even getting some extra moves. Hyper DBZ needed more humans in its roster and we think this is a pretty solid entry for that!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/TenShinHanZ2.rar",
+               "gifs": ["img/characters/gifs/TienG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Vegetto",
+               "image": "img/characters/vegetto.png",
+               "wip": false,
+               "sentence": "He hops from one foot to another, grinning. Vegetto is neither Goku nor Vegeta, but the unfathomable fusion of both through godly means. His fists blur as he blusters about his speed, he is the strongest there is and no one can match him.... Vegetto steps over to his opponent, it will all be over in ten seconds... Ten.. nine... eight.. ",
+               "description": "Vegetto is ready to destroy some teeth! Alright!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/VegettoZ2.rar",
+               "gifs": ["img/characters/gifs/VegettoG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Piccolo",
+               "image": "img/characters/piccolo.png",
+               "wip": false,
+               "sentence": "Yes! Yes! Yes! I can WIN! I feal GREAT! I! CAN! DO! THIS!",
+               "description": "Piccolo brings some color and an increase in quality to the Hyper DBZ roster! Major thanks to Iced and Just No Point! Mind you that he is still unfinished: he is lacking some palette options, some intro and win states and most noticably his AI. But please take him for a spin and set fools straight with this powerful Namekian! Voiced by Diepod.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/PiccoloZ2.zip",
+               "gifs": ["img/characters/gifs/PiccoloG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Krillin",
+               "image": "img/characters/krillin.png",
+               "wip": false,
+               "sentence": "Don't look down on humanity!",
+               "description": "Everybody's favorite small 'n bald, Krillin has finally joined the cast of Hyper DBZ. With a hit and run playstyle and options to dodge and trick the opponent, he's not to be underestimated indeed!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/KrillinZ2.rar",
+               "gifs": ["img/characters/gifs/KrillinG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Gotenks",
+               "image": "img/characters/gotenks.png",
+               "wip": false,
+               "sentence": "We are Gotenks and we're gonna rock your world!",
+               "description": "Hey Hey Hey! Gotenks is here! The first full character drawn by Daeron and coded by JustNoPoint, this is perhaps our most elaborate character yet. Ghost clones? Check. Entrapment Move? Check. \u003cbr\u003eIn-game Transformation (yay!)? Check. While Gotenks is pretty weak and has a tendency to rely too much on useless (but awesomely-named) moves, he's just a riot to play as and against. Check him out, he's truly wicked.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/GotenksZ2.rar",
+               "gifs": ["img/characters/gifs/GotenksG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Farmer",
+               "image": "img/characters/farmer.png",
+               "wip": false,
+               "sentence": "Gid off mah property!",
+               "description": "Representing the blue collar working class of humanity, Nozu steps up to face the aliens invading Earth! We don't take kindly to your folk around here! \u003cbr\u003e*note: Farmer is restricted to being an AI-controlled character.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/FarmerZ2.rar",
+               "gifs": ["img/characters/gifs/FarmerG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Mr. Satan",
+               "image": "img/characters/mr-satan.png",
+               "wip": false,
+               "sentence": "Earth's Greatest Champion is here! Beware his mighty fist!",
+               "description": "Satan has gotten a COMPLETE rehaul, courtesy of Jango! Beware his Champion Fist, this time he'll set you straight, for real!! All praise the Champ!!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/SatanZ2.rar",
+               "gifs": ["img/characters/gifs/SatanG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Android 18",
+               "image": "img/characters/eighteen.png",
+               "wip": false,
+               "sentence": "Eternal power, baby!",
+               "description": "If there's one thing that Hyper DBZ was lacking, it was a female fighter representation. We were lucky to have met NicotineFist, who sprited and animated her entirely. And what a wonderful and amazing job he did! And with coding by XGargoyle, you know this is another sure hit character. Harness the power of her Infinity Engine to outdo and outlast any opponent foolish enough to tangle with this Steel Dame!!!",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/C18Z2.zip",
+               "gifs": ["img/characters/gifs/EighteenG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Saibamen",
+               "image": "img/characters/saibamen.png",
+               "wip": false,
+               "sentence": "Createns! Critters! These little buggers will give you nightmares! Will you run and cower in fear? Or will you stand up and defeat all of them?",
+               "description": "Though released on April's Fools, these little monsters are no joke. They're vile and vicious and long for the taste of your blood! Credit goes to Daeron and The_None, I was mostly just a middle-man in this project. Though the idea of this bonus-game type project was concieved about 3 years ago, and most of the sprites were done 2 years ago, with The_None taking charge of coding, they're up and out for everyone to enjoy! In the latest update, the sprites have been updated, redrawn by Chamat.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/SaibamenZ2.rar",
+               "gifs": ["img/characters/gifs/SaibamenG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Babidi",
+               "image": "img/characters/babidi.png",
+               "wip": false,
+               "sentence": "Ancient demons and festering sores, rise and aid me once more!",
+               "description": "As a tiny rodent-like wizard man Babidi isn't much of a hand-to-hand fighter, but he can more then hold his own with his wide range of crystal ball skills, magic spells and aid of the minions under his command. Coded by XGargoyle.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/BabidiZ2.rar",
+               "gifs": ["img/characters/gifs/BabidiG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Super Buu",
+               "image": "img/characters/super-buu.png",
+               "wip": false,
+               "sentence": "You look like you could be tasty...!",
+               "description": "Super Buu marks the first-released character by our hottest spriter addition Barker! Congratulations, buddy. Now first off; this is a character with a tough learning curve. Getting comfortable with him is going to take a while! That said, the character is completely bonkers, being able to morph his body into any shape or form. This first release comes with AI included and it ain't a walk in the park trying to bring this gum dude down! As to be expected at this point, a detailed movelist is included in his files.",
+               "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/BuuZ2.rar",
+               "gifs": ["img/characters/gifs/BuuG.gif"],
+               "dlcLinks": [],
+               "dlcText": []
+        },
+        {
+               "name": "Jiren",
+               "image": "img/characters/jiren.png",
+               "wip": true,
+               "sentence": "The Prince of Saiyans! With an intellect unmatched and a pride that's indestructable, Vegeta always comes back to show who's the boss.",
+               "description": ""
+        },
+        {
+               "name": "SSJ Vegeta",
+               "image": "img/characters/ssj-vegeta.png",
+               "wip": true,
+               "sentence": "The Prince of Saiyans! With an intellect unmatched and a pride that's indestructable, Vegeta always comes back to show who's the boss.",
+               "description": ""
+        },
+        {
+               "name": "Black",
+               "image": "img/characters/black.png",
+               "wip": true,
+               "sentence": "The Prince of Saiyans! With an intellect unmatched and a pride that's indestructable, Vegeta always comes back to show who's the boss.",
+               "description": ""
+        }
+]

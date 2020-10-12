@@ -1,0 +1,15 @@
+<div id="sideBar" class="sideBar bg-dark">
+      <div onclick="closeSideBar()" class="mt-3"><a class="pl-1 navigation-bar">Cerrar       </a><img src="img/cancel.png" width="10px" alt=""></div><hr>
+      <a class="pl-1 navigation-bar" href="index.html">CHARACTERS</a><hr>
+      <a class="pl-1 navigation-bar" href="categories.html">STAGES</a><hr>
+      <a class="pl-1 navigation-bar" href="products.html">THEMES</a><hr>
+    </div>
+    </div>
+    <nav class="site-header sticky-top py-1 bg-dark">
+      <div class="ml-1"><img id="openBars" onclick="openSideBar()" class="p-1 bars" width="8%" src="img/menu.png" alt=""><div style="color: darkgrey;" id="nextToBars"></div></div>
+      <div class="container d-flex flex-column flex-md-row justify-content-between">
+        <a class="py-2 d-none d-md-inline-block navigation-bar" href="index.html">CHARACTERS</a>
+        <a class="py-2 d-none d-md-inline-block navigation-bar" href="categories.html">STAGES</a>
+        <a class="py-2 d-none d-md-inline-block navigation-bar" href="products.html">THEMES</a>
+      </div>
+    </nav>

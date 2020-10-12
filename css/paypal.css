@@ -1,0 +1,20 @@
+.paypal-list
+{
+  width: fit-content;
+  justify-content: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.paypal-item
+{
+  display: block;
+  border-bottom: 2px solid orange;
+  border-radius: .25rem;
+  color: white;
+  font-size: 2rem;
+}
+.paypal-item:hover
+{
+  color: #ffffb3;
+}

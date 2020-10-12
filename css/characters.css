@@ -1,0 +1,57 @@
+.default-background
+{
+  background: url("../img/characters/default.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-position-y: -30px;
+  background-color: white;
+}
+.default-background:hover .chart-name
+{
+  color: orange;
+}
+.default-background:hover
+{
+  background-color: orange;
+}
+.stageBkImg
+{
+  border: 0px;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
+.stageImg
+{
+  background-color: white;
+  border: 1px solid #dee2e6;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
+.stageImg:hover .chart-name
+{
+  color: orange;
+}
+.stageImg:hover
+{
+  background-color: orange;
+}
+.chart-name
+{
+  font-family: Evogria;
+  letter-spacing: 2px;
+  color: #ffffb3;
+}
+.blocked-card
+{
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+.title-tab-stage
+{
+  display: flex;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  background-color: #8B0000;
+}

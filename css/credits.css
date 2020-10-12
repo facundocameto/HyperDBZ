@@ -1,0 +1,32 @@
+li:hover img
+{
+  display: inline-block;
+}
+.credits-table img
+{
+  display: none;
+  margin-right: 1rem;
+  margin-top: -28px;
+}
+.credits-table
+{
+  width: fit-content;
+  justify-content: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.colored-name
+{
+  color: pink;
+}
+.credits-list
+{
+  list-style: none;
+  padding: 0;
+  font-size: 1.2rem;
+}
+.credits-subtitles
+{
+  color: #ffffb3;
+}

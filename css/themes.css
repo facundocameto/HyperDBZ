@@ -1,0 +1,13 @@
+.theme-channels
+{
+  border-bottom: 3px solid #ffffb3;
+}
+.themes-border
+{
+  border-right: 1px solid white;
+}
+@media (max-width: 767px) {
+  .themes-border {
+    border-right: none;
+  }
+}

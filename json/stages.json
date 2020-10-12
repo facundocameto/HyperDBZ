@@ -1,0 +1,263 @@
+[
+        {
+              "name": "earth",
+              "image": "img/stages/earth.png",
+              "imageInfo": "img/stages/ingame/dbearth.png",
+              "wip": false,
+              "sentence": "In the arid wasteland, lives are ended in the blink of an eye... Blink too long and you might end up missing more than your life.",
+              "description": "Behold, Daeron's first stage made specificly for our Z2 characters! This one is based off some Capcom work..taking some elements here and there, but adding plenty of new ones as well! This is your go-to stage for your Goku vs Vegeta match-ups! The most catchy thing about this stage would be the added Yajirobe background character, who watches the fight safely from behind the rocks. \u003cbr\u003eHe'll even run over to another rock if you get too far away from him!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbearth.rar"
+        },
+        {
+              "name": "desert storm",
+              "image": "img/stages/desert.png",
+              "imageInfo": "img/stages/ingame/dbdesert.png",
+              "wip": false,
+              "sentence": "The sand violently leaves its mark against the skin, however, violence drives its point home harder.",
+              "description": "A variation of his initial stage; DBZ Desert is a more proper version of some Saiyan Saga action! \u003cbr\u003eThere is some heavy dust and sand flying all over. It might obscure things a bit, but there's where the fun lies with this stage! Come on, give it a go...",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbdesert2.rar"
+        },
+        {
+              "name": "arctic",
+              "image": "img/stages/arctic.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": false,
+              "sentence": "The wind chills with a cold demeanor.. the battle burns hotly regardless.",
+              "description": "A fight on a floating body of ice? Sounds like fun. Who'd have known, this is where the Red Ribbon army hides? Looks like their base of operations is pretty wiped out... No time to enjoy the scenery anyway, keep moving or your feet'll freeze to the surface! Put up your dukes!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbarctic.rar"
+        },
+        {
+              "name": "space",
+              "image": "img/stages/space.png",
+              "imageInfo": "img/stages/ingame/dbspace.png",
+              "wip": false,
+              "sentence": "In space, no one can hear you scream...except for the God of Destruction!",
+              "description": "Under the watch of Beerus, fighters clash in the vastness of space. Among floating meteorite debris, the heat is on!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbspace.rar"
+        },
+        {
+              "name": "time chamber aurora",
+              "image": "img/stages/timechamberaurora.png",
+              "imageInfo": "img/stages/ingame/dbtimechamber1.png",
+              "wip": false,
+              "sentence": "Deep inside the depths of the chamber, ancient gears and clockwork grind time to a still...",
+              "description": "Behold, the innards of the Hyperbolic Time Chamber, or the Room of Spirit and Time, whichever you prefer! This is top Training stage material! Daeron has made 2 versions of this stage; one is the alternating firestorm and blizzard (illusional weather circomstances) variation, the other has the aurora in the background, based off it's presence in the Budokai games. This is the aurora variation. \u003cbr\u003e*NOTE* These snapshots were made using the Stage Viewer plug-in, which doesn't support 100% proper animations and transparancy effects. Hence, these snapshots do not do the stage justice. The actual stage in MUGEN is a lot nicer!!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbchamber1.rar"
+        },
+        {
+              "name": "time chamber blizzards",
+              "image": "img/stages/timechamberfireandice.png",
+              "imageInfo": "img/stages/ingame/dbtimechamber2.png",
+              "wip": false,
+              "sentence": "Sizzling flame and freezing gusts of wind disperse through the arid whiteness...",
+              "description": "Behold, the innards of the Hyperbolic Time Chamber, or the Room of Spirit and Time, whichever you prefer! This is top Training stage material! Daeron has made 2 versions of this stage; one is the alternating firestorm and blizzard (illusional weather circomstances) variation, the other has the aurora in the background, based off it's presence in the Budokai games. This is the weather condition variation. \u003cbr\u003e*NOTE* These snapshots were made using the Stage Viewer plug-in, which doesn't support 100% proper animations and transparancy effects. Hence, these snapshots do not do the stage justice. The actual stage in MUGEN is a lot nicer!!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbchamber2.rar"
+        },
+        {
+              "name": "tenkaichi budokai",
+              "image": "img/stages/tenkaichi.png",
+              "imageInfo": "img/stages/ingame/dbtenka.png",
+              "wip": false,
+              "sentence": "Legends are not born, they are forged, molded and tempered under the heat of battle. This sacred arena has forged the greatest champs the world has seen. All may enter the Tenkaichi to test their mettle, but few become champs.",
+              "description": "A stage that's long overdue, here is our version World Tournament! It's after-hours, so no crowd.",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbztenka.rar"
+        },
+        {
+              "name": "saiyan pride",
+              "image": "img/stages/saiyanpride.png",
+              "imageInfo": "img/stages/ingame/dbpride.png",
+              "wip": false,
+              "sentence": "In space no one can hear you scream, some, will make a point out of making you scream.",
+              "description": "NoZ's stage made for Vegeta, is really something else. It's damn awesome, that's what! It's a pretty huge high-res stage of 60mb, so know what you're getting. This is the setting where Vegeta went to train on an asteroid in outer space, searching for himself, and finally, pushing his limits and becoming a Super Saiyan! The big download button is for the low-res version. Just below is a button for the high-res version.",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/SAIYAN_PRIDE_LOW.rar"
+        },
+        {
+              "name": "evo 2014",
+              "image": "img/stages/evo.png",
+              "imageInfo": "img/stages/ingame/dbevo.png",
+              "wip": false,
+              "sentence": "The city is dark but the roars and cheers of the crowd keep it alive. Witness history in the making",
+              "description": "Who'd have thought a MUGEN game would get a side stream at an event as huge as EVO? We're glad to say the game's reception has been immensely positive and it's been streamed at a previous fighting game tournament, and we were so hyped to hear it will get played at EVO, so for that occasion, Daeron was chained and whipped until a 'thank you' stage came out of his hands, and he delivered!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbevo.rar"
+        },
+        {
+              "name": "mountain road",
+              "image": "img/stages/mountainroad.png",
+              "imageInfo": "img/stages/ingame/dbmountainroad.png",
+              "wip": false,
+              "sentence": "As the catastrophe looms, powerful blows are exchanged amidst the velocity and the chaos. At any moment the collision threatens to end this... but we all know it wouldn't stop there.",
+              "description": "Have you got the stuff it takes to duke it out on top a moving truck's bed? Go and find out!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzroad.rar"
+        },
+        {
+              "name": "baba's palace",
+              "image": "img/stages/babapalace.png",
+              "imageInfo": "img/stages/ingame/dbpalaceThe witch cackles her ugly laugh, she'll peer into your future, discern into your past, maybe even tell you about the tidings of the present that might've been. But she'll do it.. for a price..png",
+              "wip": false,
+              "sentence": "For the right price the seer will answer anything you ask... but if you dont have the cash, she'll let you earn it facing her legion of horrors. Mind that you don't become part of her collection.",
+              "description": "The outside and entrance to the Seers Alcove stage! Baba awaits, her ghouly guards at the ready.",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbpalace.rar"
+        },
+        {
+              "name": "seer's alcove",
+              "image": "img/stages/seers_alcove.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": false,
+              "sentence": "The witch cackles her ugly laugh, she'll peer into your future, discern into your past, maybe even tell you about the tidings of the present that might've been. But she'll do it.. for a price.",
+              "description": "A large room with in the center a large magical viewing globe, guarded by the witch Baba.",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzball.rar"
+        },
+        {
+              "name": "west city",
+              "image": "img/stages/westcity.png",
+              "imageInfo": "img/stages/ingame/dbcity.png",
+              "wip": false,
+              "sentence": "West city! What a place! The cars, the buildings, the super powered aliens fighting in the streets...",
+              "description": "West City! Home of some famous legends like Captain Chicken and Mr Satan! Today however, West City is the showdown for some less famous individuals, it's certain to make it to the news! The battle is bound to happen here amidst the passing traffic, under the ever watchful eyes of the Champion, Mr.Satan!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbcity.rar"
+        },
+        {
+              "name": "satan city sunset",
+              "image": "img/stages/westcitysunset.png",
+              "imageInfo": "img/stages/ingame/dbcity2.png",
+              "wip": false,
+              "sentence": "This is what you get for letting those damn Androids running around.",
+              "description": "Bla bla bla It's the alternate version of the West City stage!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbcity2.rar"
+        },
+        {
+              "name": "kame house",
+              "image": "img/stages/kamehouse.png",
+              "imageInfo": "img/stages/ingame/dbkame.png",
+              "wip": false,
+              "sentence": "Legends speak of a hermit that has attained immortality, hidden away in the forgotten corners of the ocean...",
+              "description": "Even in this sunny setting, the Z fighters have no chill and need to rough-house!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbkame.rar"
+        },
+        {
+              "name": "kame house sunset",
+              "image": "img/stages/kamehouse_sunset.png",
+              "imageInfo": "img/stages/ingame/dbkamesunset.png",
+              "wip": false,
+              "sentence": "The sunset holds promises for a thousand tomorrows. Move well! Learn well! Play well, eat well and rest well! Enjoy your lives, merrily and to the fullest! The Kame Style is with you",
+              "description": "Even as the sun sets, there is still more rough-housing to be done!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbkamehouse-evening.rar"
+        },
+        {
+              "name": "goku's house",
+              "image": "img/stages/gokuhouse.png",
+              "imageInfo": "img/stages/ingame/dbgokuhouse.png",
+              "wip": false,
+              "sentence": "The smell of baking fills the air, the freshly washed clothes hung to dry and the dinosaurs buzz happily around us. Welcome Home.",
+              "description": "Goku fights his battles anywhere, even in his own backyard! It's also quite a nice place where he lives, he has an amazing cliff view where dinosaurs can be seen strawling or flying by. But Goku's favourite part of his home is without a doubt his wife Chi-Chi, which cooks him many a meal each day! He'll fight anyone or anything to protect her!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbgokuhome.rar"
+        },
+        {
+              "name": "goku's house at night",
+              "image": "img/stages/gokuhousenight.png",
+              "imageInfo": "img/stages/ingame/dbgokuhouse2.png",
+              "wip": false,
+              "sentence": "The night has come and with it the calm and warm atmosphere of Mount Paozu. Everyone is asleep, even the dinosaurs and the beasts... well, not everyone.",
+              "description": "Mount Paozu is a calm place, unheard of that anyone would even live there. Goku however has made it his home, right next to his grandpa's old house. The Son family welcomes any visitors, even at night.",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbgokuhome2.rar"
+        },
+        {
+              "name": "namek",
+              "image": "img/stages/namek.png",
+              "imageInfo": "img/stages/ingame/dbnamek.png",
+              "wip": false,
+              "sentence": "In the vast oceans of the planet of perpetual day, everything is calm... or is it?",
+              "description": "DBZ Namek is another fine, fine example of Daeron's spriting skills. It turned out to be one of my instant favourite stages, with it's vibrant colors and humble but clear detailing. Note the Ginyu frog, and Dende flying across being chased by some Frieza soldiers! Finally, keep an eye out for the famous 'Namek's Last Minutes' stage that Daeron will eventually make! It's the planet Namek after it's been hit in it's core by Frieza's Death Ball. For now, you'll have to do with a more peaceful setting!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbnamek.rar"
+        },
+        {
+              "name": "namek porunga",
+              "image": "img/stages/namekporunga.png",
+              "imageInfo": "img/stages/ingame/dbnamek2.png",
+              "wip": false,
+              "sentence": "WHAT DO YOU WISH FOR!?",
+              "description": "ENTER PORUNGA",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbnamek2.rar"
+        },
+        {
+              "name": "namek dying",
+              "image": "img/stages/namekdying.png",
+              "imageInfo": "img/stages/ingame/dbnamekdying.png",
+              "wip": false,
+              "sentence": "It's a race against the clock, as the very planet is minutes away from bursting!",
+              "description": "Wild gusts of wind, gusts of lava licking your aura, and the very sky crimson as the blood of thousands that are inevitably about to perish. In that respect, a perfect backdrop for the powerful tyrant Freeza to accompany his very presence. But this is no time to be afraid. Giving up here means not only your certain demise, but also that of an entire population of Namekians!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbnamekdying.rar"
+        },
+        {
+              "name": "kami's lookout",
+              "image": "img/stages/kamilookout.png",
+              "imageInfo": "img/stages/ingame/dblookout.png",
+              "wip": false,
+              "sentence": "High above the clouds, a God with watchful eyes cares over the planet.",
+              "description": "Another homerun stage by Daeron, the Lookout stage has the combatants duking it out sky high!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dblookout.rar"
+        },
+        {
+              "name": "kami's lookout eclipse",
+              "image": "img/stages/kamilookouteclipse.png",
+              "imageInfo": "img/stages/ingame/dblookout2.png",
+              "wip": false,
+              "sentence": "The atmosphere turns eerie, the skies becomes thick and crimson. Tonight, the ghosts roam free!",
+              "description": "Alternate version of the Lookout stage.",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dblookout2.rar"
+        },
+        {
+              "name": "korin's tower",
+              "image": "img/stages/korintower.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": false,
+              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
+              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
+        },
+        {
+              "name": "neko majin gathering",
+              "image": "img/stages/nekomajingathering.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": false,
+              "sentence": "A group of cats is called a nuisance, Yajirobe always wondered why. That is, until he met Korin's pals...",
+              "description": "Alternate version of the Korin Tower stage. Best stage!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin2.rar"
+        },
+        {
+              "name": "enma's desk",
+              "image": "img/stages/enmadesk.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": true,
+              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
+              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
+        },
+        {
+              "name": "tenshin heights",
+              "image": "img/stages/tenshin_heights.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": true,
+              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
+              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
+        },
+        {
+              "name": "king kai world",
+              "image": "img/stages/kingkai.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": true,
+              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
+              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
+        },
+        {
+              "name": "baba's palace night",
+              "image": "img/stages/baba_night.png",
+              "imageInfo": "img/stages/ingame/dbarctic.png",
+              "wip": true,
+              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
+              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
+              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
+        }
+]
