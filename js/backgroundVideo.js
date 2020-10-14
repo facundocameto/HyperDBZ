@@ -10,7 +10,10 @@ var vArray = [
     "video/HDBZ_Satan.mp4",
     "video/HDBZ_SSJ_Goku.mp4",
     "video/HDBZ_Vegito.mp4",
-    "video/HDBZ_Tenshinhan.mp4"
+    "video/HDBZ_Tenshinhan.mp4",
+    "video/HDBZ_Vegeta.mp4",
+    "video/HDBZ_Goku.mp4",
+    "video/HDBZ_Gotenks.mp4"
 ]
 
 var newNumber = Math.floor(Math.random() * (vArray.length));
