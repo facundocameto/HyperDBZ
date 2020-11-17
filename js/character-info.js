@@ -33,6 +33,21 @@ function showCharacterInfo(characterArray){
                   </div>
                   `
               }
+              htmlContentToAppend += `</div>`
+            }
+            function showBannerGif(array)
+            {
+              htmlContentToAppend += `<div class="row justify-content-center text-center w-100 mt-3 ml-0 mr-0">`
+
+              for(let i = 0; i < array.length; i++){
+                  let gif = array[i];
+
+                  htmlContentToAppend += `
+                  <div>
+                          <img class="img-fluid mt-2 mb-2" src="` + gif + `" alt="">
+                  </div>
+                  `
+              }
               htmlContentToAppend += `</div><div class="text-center"><a unselectable="on" class="btn movelist-button-style" href="` + character.downloadLink + `">DOWNLOAD</a></div>`
             }
             function showDlc(links, texts)
@@ -57,6 +72,7 @@ function showCharacterInfo(characterArray){
           }
 
             showGif(character.gifs);
+            showBannerGif(character.bannerGif);
             showDlc(character.dlcLinks, character.dlcText);
         }
 
