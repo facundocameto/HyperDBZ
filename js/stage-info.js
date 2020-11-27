@@ -20,10 +20,30 @@ function showStageInfo(stageArray){
             <div class="text-center ml-3 mr-3 char-sent"><img class="img-fluid" src="` + stage.imageInfo + `"><p class="character-text">` + `"` + stage.sentence + `"` + `</p></div>
             <div class="col-sm text-center char-desc character-text"><p>` + stage.description + `</p></div>
             <div class="text-center mt-3"><a unselectable="on" class="btn movelist-button-style" href="` + stage.downloadLink + `">DOWNLOAD</a></div>
-            <div class="row justify-content-center text-center w-100 mt-5 ml-0 mr-0">
             `
 
-            htmlContentToAppend += `</div>`
+            function showDlc(links, texts)
+            {
+              if (links.length == 0)
+              {
+                htmlContentToAppend += "";
+              }
+              else
+              {
+                htmlContentToAppend += `<div class="row text-center ml-3 mr-3 pt-3"><div class="col-sm p-0 index-title"> <h1 class="p-2">DLC'S</h1> </div></div>
+                <div class="row text-center character-info-list"><ul id="dlcPlaceholder" class="list-group list-group-flush">`
+
+              for(let i = 0; i < links.length; i++){
+                  let link = links[i];
+                  let text = texts[i];
+
+                  htmlContentToAppend += `<a href="` + link + `"><li class="character-info-item">` + text + `</li></a>`
+              }
+              htmlContentToAppend += `</ul></div><hr class="ml-3 mr-3" style="border-bottom: 4px solid white;">`
+            }
+          }
+
+          showDlc(stage.dlcLinks, stage.dlcText);
 
         }
 

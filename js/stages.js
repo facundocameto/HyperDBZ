@@ -23,7 +23,7 @@ function showStagesList(stagesArray){
         else {
 
             htmlContentToAppend += `
-            <a class="m-2" href="stage-info?name=` + stage.name + `">
+            <a class="m-2" href="stage-info.html?name=` + stage.name + `">
                     <div style="width: 302px;" class="stageImg col pt-0 pr-0 pl-0 img-thumbnail">
                       <img class="stageBkImg" width="300px" height="400px" src="` + stage.image + `" alt="` + stage.name + `"><div class="title-tab-stage"><h2 class="pb-1 m-0 w-100 chart-name">` + stage.name + `</h2></div>
                     </div>

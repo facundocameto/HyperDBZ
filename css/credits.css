@@ -1,17 +1,13 @@
-li:hover img, li:hover .rightImg
-{
-  display: inline-block;
-}
 .credits-table img
 {
-  display: none;
+  display: inline-block;
   margin-right: 6px;
   margin-top: -28px;
   margin-left: -30px;
 }
 .credits-table .rightImg
 {
-  display: none;
+  display: inline-block;
   margin-right: -30px;
   margin-top: -28px;
   margin-left: 6px;
