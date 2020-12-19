@@ -10,9 +10,9 @@ function showCharactersList(charactersArray){
 
             htmlContentToAppend += `
           <a class="m-2">
-            <div style="width: 302px;" class="blocked-card">
+            <div style="width: 162px;" class="blocked-card">
                   <div style="z-index: -1;" class="default-background col pr-0 pl-0 img-thumbnail">
-                    <img width="300px" height="400px" src="` + character.image + `" alt="` + character.name + `"><h2 class="pb-1 m-0 chart-name" style="background-color: #8B0000;">` + character.name + ` (WIP)</h2>
+                    <img width="160px" height="200px" src="` + character.image + `" alt="` + character.name + `"><div class="title-tab-stage" style="height: 50px;"><h2 class="pb-1 m-0 chart-name" style="background-color: #8B0000;">` + character.name + ` (WIP)</h2></div>
                   </div>
             </div>
           </a>
@@ -23,9 +23,9 @@ function showCharactersList(charactersArray){
         else {
 
             htmlContentToAppend += `
-            <a class="m-2" href="character-info?name=` + character.name + `">
-                    <div style="width: 302px;" class="default-background col pr-0 pl-0 img-thumbnail">
-                      <img width="300px" height="400px" src="` + character.image + `" alt="` + character.name + `"><h2 class="pb-1 m-0 chart-name" style="background-color: #8B0000;">` + character.name + `</h2>
+            <a class="m-2" href="character-info.html?name=` + character.name + `">
+                    <div style="width: 162px;" class="default-background col pr-0 pl-0 img-thumbnail">
+                      <img width="160px" height="200px" src="` + character.image + `" alt="` + character.name + `"><div class="title-tab-stage" style="height: 50px;"><h2 class="pb-1 m-0 chart-name" style="background-color: #8B0000;">` + character.name + `</h2></div>
                     </div>
             </a>
             `

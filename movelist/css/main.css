@@ -110,6 +110,11 @@ body {
 	border: none
 }
 
+#header .container-fluid:before, #header .container-fluid:after
+{
+  content: initial;
+}
+
 @media (max-width: 1560px) {
 	.move-menu a {
 		font-size: 24px;

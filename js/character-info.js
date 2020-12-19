@@ -16,10 +16,41 @@ function showCharacterInfo(characterArray){
             htmlContentToAppend += `
             <div class="row text-center ml-3 mr-3">
               <div class="col-sm mb-3 p-0 comunity-title"> <h1 class="p-2">` + character.name + `</h1> </div>
-            </div>
+            </div>` + createCarousel(character.ingImg) + `
             <div style="margin-top: -2rem;" class="text-center ml-3 mr-3 char-sent"><img src="` + character.image + `"><p style="margin-top: -2rem;" class="character-text">` + `"` + character.sentence + `"` + `</p></div>
             <div class="col-sm text-center char-desc character-text"><p>` + character.description + `</p></div>
             `
+            function createCarousel(array)
+            {
+              htmlContentToAppend += `
+              <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                ` +
+                for(let i = 0; i < array.length; i++){
+                    let image = array[i];
+
+                    htmlContentToAppend += `
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="` + image + `" alt="First slide">
+                  </div>
+                  `
+                } +
+                `</div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>`
+            }
             function showGif(array)
             {
               htmlContentToAppend += `<div class="row justify-content-center text-center w-100 mt-3 ml-0 mr-0">`
