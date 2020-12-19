@@ -1,7 +1,7 @@
 [{
 		"name": "Goku",
 		"image": "img/characters/goku.png",
-		"ingImg": ["img/characters/ingame/goku.png", "img/characters/ingame/goku2.png", "img/characters/ingame/goku3.png"],
+		"ingImg": ["img/characters/ingame/goku.png", "img/characters/ingame/goku2.png", "img/characters/ingame/goku3.png", "img/characters/ingame/asdasdasd.png", "img/characters/ingame/asdasdasdasdasdasd.png"],
 		"wip": false,
 		"sentence": "Pure-hearted like no other, Goku is all about finding strong opponents to further improve his god-like fighting abilities. And eating lots of food.",
 		"description": "Goku marks the beginning of the Z2 era, where Dragonball characters are finally done justice in Mugen! No more 1-button-press-100-hit beams, no overly flashy and pointless transformations, no midget characters compared to Street Fighters, no eardrum-shattering sound effects. Just pulse-pounding, fast-paced, exciting, easy-to-pick-up, hard-to-master gameplay. Original and fluidly animated sprites. Tons of fan service. A load of fun palettes. This is where it's at, fighting game fans! Now, DBZ characters are finally worth your time.",
