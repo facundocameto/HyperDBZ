@@ -118,7 +118,6 @@ document.addEventListener("DOMContentLoaded", function(e){
     getJSONData(STAGES_URL).then(function(resultObj){
         if (resultObj.status === "ok"){
             showStageInfo(resultObj.data);
-            createCarousel(resultObj.data);
         }
     });
 });
