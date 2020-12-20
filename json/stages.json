@@ -1,13 +1,15 @@
 [
-        {
-              "name": "earth",
-              "image": "img/stages/earth.png",
-              "imageInfo": "img/stages/ingame/dbearth.png",
-              "wip": false,
-              "sentence": "In the arid wasteland, lives are ended in the blink of an eye... Blink too long and you might end up missing more than your life.",
-              "description": "Behold, Daeron's first stage made specificly for our Z2 characters! This one is based off some Capcom work..taking some elements here and there, but adding plenty of new ones as well! This is your go-to stage for your Goku vs Vegeta match-ups! The most catchy thing about this stage would be the added Yajirobe background character, who watches the fight safely from behind the rocks. \u003cbr\u003eHe'll even run over to another rock if you get too far away from him!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbearth.rar"
-        },
+  {
+  "name": "desert",
+  "image": "img/stages/earth.png",
+  "ingImg": ["img/characters/ingame/dbearth.png"],
+  "wip": false,
+  "sentence": "In the arid wasteland, lives are ended in the blink of an eye... Blink too long and you might end up missing more than your life.",
+  "description": "Behold, Daeron's first stage made specifically for our Z2 characters! This one is based off some Capcom work..taking some elements here and there, but adding plenty of new ones as well! This is your go-to stage for your Goku vs Vegeta match-ups! The most catchy thing about this stage would be the added Yajirobe background character, who watches the fight safely from behind the rocks.",
+  "downloadLink": "http://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_desert.rar",
+  "dlcLinks": [],
+  "dlcText": []
+},
         {
               "name": "desert storm",
               "image": "img/stages/desert.png",

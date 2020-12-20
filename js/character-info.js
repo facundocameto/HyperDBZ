@@ -29,8 +29,8 @@ function createCarousel(characterArray){
               htmlCont += `
               </ol>
               <div style="max-width: 1000px; min-width: 320px; margin-left:auto; margin-right:auto; background-color: black; border-top-right-radius: 20%; border-bottom-left-radius: 20%;" class="carousel-inner">
-              <div style="" class="carousel-item hdbz-trailer active">
-                <img style="width: 100%; height: 100%; object-fit: cover; object-position: center;" class="d-block img-fluid" src="` + array[0] + `" alt="First slide">
+              <div style="max-height: 480px;" class="carousel-item hdbz-trailer active">
+                <img style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 65%;" class="d-block img-fluid" src="` + array[0] + `" alt="First slide">
                 <div class="border-trailer"></div>
               </div>
               `
@@ -38,8 +38,8 @@ function createCarousel(characterArray){
                   let image = array[i];
 
                   htmlCont += `
-                <div style="" class="carousel-item hdbz-trailer">
-                  <img style="width: 100%; height: 100%; object-fit: cover; object-position: center;" class="d-block img-fluid" src="` + image + `" alt="First slide">
+                <div style="max-height: 480px;" class="carousel-item hdbz-trailer">
+                  <img style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 65%;" class="d-block img-fluid" src="` + image + `" alt="First slide">
                   <div class="border-trailer"></div>
                 </div>
                 `
