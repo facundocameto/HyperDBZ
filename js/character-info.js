@@ -119,7 +119,7 @@ function showCharacterInfo(characterArray){
               }
               else
               {
-                htmlContentToAppend += `<div class="row text-center ml-3 mr-3 pt-3"><div class="col-sm p-0 index-title"> <h1 class="p-2">DLC'S</h1> </div></div>
+                htmlContentToAppend += `<div class="row text-center ml-3 mr-3 pt-3"><div class="col-sm p-0 index-title"> <h1 style="margin-bottom: -1rem;" class="p-2">DLC'S</h1> </div></div>
                 <div class="row text-center character-info-list"><ul id="dlcPlaceholder" class="list-group list-group-flush">`
 
               for(let i = 0; i < links.length; i++){

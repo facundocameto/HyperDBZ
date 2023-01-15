@@ -1,6 +1,6 @@
-const CHARACTERS_URL = "https://facundocameto.github.io/HyperDBZ/json/characters.json";
-const NON_HDBZ_CHARACTERS_URL = "https://facundocameto.github.io/HyperDBZ/json/non-hdbz-characters.json";
-const STAGES_URL = "https://facundocameto.github.io/HyperDBZ/json/stages.json";
+const CHARACTERS_URL = "./json/characters.json";
+const NON_HDBZ_CHARACTERS_URL = "./json/non-hdbz-characters.json";
+const STAGES_URL = "./json/stages.json";
 
 var getJSONData = function(url){
     var result = {};

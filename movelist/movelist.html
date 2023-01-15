@@ -16,8 +16,15 @@
   <script type="text/javascript" src="js/templates.js"></script>
   <script type="text/javascript" src="js/script.js"></script>
   <link href="/img/favicon.ico" rel="icon" type="image/x-icon"/>
-</head>
-<body>
+  <style>
+  a:focus
+  {
+    color: #ffffb3;
+    text-decoration: none;
+  }
+  </style>
+  </head>
+  <body>
   <nav id="header" class="site-header sticky-top py-1 bg-dark">
     <div class="container-fluid d-flex flex-md-row justify-content-around text-center pt-1">
       <div> <a class="py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../index.html"> <img height="40rem" width="40rem" src="img/icons/home_icon.png" alt=""> <span>HOME</span></a></div>
@@ -26,11 +33,13 @@
       <div> <a class="py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../themes.html"> <img height="40rem" width="32rem" src="img/icons/themes_icon.png" alt=""> <span>THEMES</span></a></div>
       <div> <a class="hide-on-mobile py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="movelist.html"> <img height="40rem" width="40rem" src="img/icons/anyP.png" alt=""> <span>MOVELIST</span></a></div>
       <div> <a class="hide-on-mobile py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../credits.html"> <img height="40rem" width="25rem" src="img/icons/balthazar.png" alt=""> <span>CREDITS</span></a></div>
+      <div> <a class="hide-on-mobile py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../about.html"> <img height="40rem" width="40rem" src="../img/icons/about_icon.png" alt=""> <span>ABOUT</span></a></div>
     </div>
     <hr style="border-top: 1px solid rgba(0,0,0,.1);" class="show-on-mobile mt-1 mb-1">
     <div class="show-on-mobile container flex-md-row justify-content-around text-center pt-1">
     <div> <a class="py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="movelist.html"> <img height="40rem" width="40rem" src="img/icons/anyP.png" alt=""> <span>MOVELIST</span></a></div>
-    <div> <a class="py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../credits.html"> <img height="40rem" width="25rem" src="img/icons/balthazar.png" alt=""> <span>CREDITS</span></a></div></div>
+    <div> <a class="py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../credits.html"> <img height="40rem" width="25rem" src="img/icons/balthazar.png" alt=""> <span>CREDITS</span></a></div>
+  <div> <a class="py-2 d-md-inline-block navigation-bar pl-1 pr-1" href="../about.html"> <img height="40rem" width="40rem" src="../img/icons/about_icon.png" alt=""> <span>ABOUT</span></a></div></div>
   </nav>
 <div class="container-fluid">
 	<ul class="nav nav-tabs justify-content-center" id="character_menu">
@@ -82,10 +91,11 @@
 			<div class="row">
 				<!-- Notation Key -->
 				<div class="col-lg-2 col-xs-6 notation">
-					<img class="img-responsive" src="./img/key_buttons.png">
+					<img class="img-responsive" src="./img/key_directions.png">
+
 				</div>
 				<div class="col-lg-2 col-xs-6 notation">
-					<img class="img-responsive" src="./img/key_directions.png">
+					<img class="img-responsive" src="./img/key_buttons.png">
 				</div>
 				<div class="col-lg-4 notation">
 							<img class="img-responsive" src="./img/key_pmacro.png">

@@ -1,265 +1,452 @@
-[
-  {
-  "name": "desert",
-  "image": "img/stages/earth.png",
-  "ingImg": ["img/characters/ingame/dbearth.png"],
-  "wip": false,
-  "sentence": "In the arid wasteland, lives are ended in the blink of an eye... Blink too long and you might end up missing more than your life.",
-  "description": "Behold, Daeron's first stage made specifically for our Z2 characters! This one is based off some Capcom work..taking some elements here and there, but adding plenty of new ones as well! This is your go-to stage for your Goku vs Vegeta match-ups! The most catchy thing about this stage would be the added Yajirobe background character, who watches the fight safely from behind the rocks.",
-  "downloadLink": "http://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_desert.rar",
-  "dlcLinks": [],
-  "dlcText": []
-},
-        {
-              "name": "desert storm",
-              "image": "img/stages/desert.png",
-              "imageInfo": "img/stages/ingame/dbdesert.png",
-              "wip": false,
-              "sentence": "The sand violently leaves its mark against the skin, however, violence drives its point home harder.",
-              "description": "A variation of his initial stage; DBZ Desert is a more proper version of some Saiyan Saga action! \u003cbr\u003eThere is some heavy dust and sand flying all over. It might obscure things a bit, but there's where the fun lies with this stage! Come on, give it a go...",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbdesert2.rar"
-        },
-        {
-              "name": "arctic",
-              "image": "img/stages/arctic.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": false,
-              "sentence": "The wind chills with a cold demeanor.. the battle burns hotly regardless.",
-              "description": "A fight on a floating body of ice? Sounds like fun. Who'd have known, this is where the Red Ribbon army hides? Looks like their base of operations is pretty wiped out... No time to enjoy the scenery anyway, keep moving or your feet'll freeze to the surface! Put up your dukes!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbarctic.rar"
-        },
-        {
-              "name": "space",
-              "image": "img/stages/space.png",
-              "imageInfo": "img/stages/ingame/dbspace.png",
-              "wip": false,
-              "sentence": "In space, no one can hear you scream...except for the God of Destruction!",
-              "description": "Under the watch of Beerus, fighters clash in the vastness of space. Among floating meteorite debris, the heat is on!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbspace.rar"
-        },
-        {
-              "name": "time chamber aurora",
-              "image": "img/stages/timechamberaurora.png",
-              "imageInfo": "img/stages/ingame/dbtimechamber1.png",
-              "wip": false,
-              "sentence": "Deep inside the depths of the chamber, ancient gears and clockwork grind time to a still...",
-              "description": "Behold, the innards of the Hyperbolic Time Chamber, or the Room of Spirit and Time, whichever you prefer! This is top Training stage material! Daeron has made 2 versions of this stage; one is the alternating firestorm and blizzard (illusional weather circomstances) variation, the other has the aurora in the background, based off it's presence in the Budokai games. This is the aurora variation. \u003cbr\u003e*NOTE* These snapshots were made using the Stage Viewer plug-in, which doesn't support 100% proper animations and transparancy effects. Hence, these snapshots do not do the stage justice. The actual stage in MUGEN is a lot nicer!!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbchamber1.rar"
-        },
-        {
-              "name": "time chamber blizzards",
-              "image": "img/stages/timechamberfireandice.png",
-              "imageInfo": "img/stages/ingame/dbtimechamber2.png",
-              "wip": false,
-              "sentence": "Sizzling flame and freezing gusts of wind disperse through the arid whiteness...",
-              "description": "Behold, the innards of the Hyperbolic Time Chamber, or the Room of Spirit and Time, whichever you prefer! This is top Training stage material! Daeron has made 2 versions of this stage; one is the alternating firestorm and blizzard (illusional weather circomstances) variation, the other has the aurora in the background, based off it's presence in the Budokai games. This is the weather condition variation. \u003cbr\u003e*NOTE* These snapshots were made using the Stage Viewer plug-in, which doesn't support 100% proper animations and transparancy effects. Hence, these snapshots do not do the stage justice. The actual stage in MUGEN is a lot nicer!!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbchamber2.rar"
-        },
-        {
-              "name": "tenkaichi budokai",
-              "image": "img/stages/tenkaichi.png",
-              "imageInfo": "img/stages/ingame/dbtenka.png",
-              "wip": false,
-              "sentence": "Legends are not born, they are forged, molded and tempered under the heat of battle. This sacred arena has forged the greatest champs the world has seen. All may enter the Tenkaichi to test their mettle, but few become champs.",
-              "description": "A stage that's long overdue, here is our version World Tournament! It's after-hours, so no crowd.",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbztenka.rar"
-        },
-        {
-              "name": "saiyan pride",
-              "image": "img/stages/saiyanpride.png",
-              "imageInfo": "img/stages/ingame/dbpride.png",
-              "wip": false,
-              "sentence": "In space no one can hear you scream, some, will make a point out of making you scream.",
-              "description": "NoZ's stage made for Vegeta, is really something else. It's damn awesome, that's what! It's a pretty huge high-res stage of 60mb, so know what you're getting. This is the setting where Vegeta went to train on an asteroid in outer space, searching for himself, and finally, pushing his limits and becoming a Super Saiyan! The big download button is for the low-res version. Just below is a button for the high-res version.",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/SAIYAN_PRIDE_LOW.rar"
-        },
-        {
-              "name": "evo 2014",
-              "image": "img/stages/evo.png",
-              "imageInfo": "img/stages/ingame/dbevo.png",
-              "wip": false,
-              "sentence": "The city is dark but the roars and cheers of the crowd keep it alive. Witness history in the making",
-              "description": "Who'd have thought a MUGEN game would get a side stream at an event as huge as EVO? We're glad to say the game's reception has been immensely positive and it's been streamed at a previous fighting game tournament, and we were so hyped to hear it will get played at EVO, so for that occasion, Daeron was chained and whipped until a 'thank you' stage came out of his hands, and he delivered!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbevo.rar"
-        },
-        {
-              "name": "mountain road",
-              "image": "img/stages/mountainroad.png",
-              "imageInfo": "img/stages/ingame/dbmountainroad.png",
-              "wip": false,
-              "sentence": "As the catastrophe looms, powerful blows are exchanged amidst the velocity and the chaos. At any moment the collision threatens to end this... but we all know it wouldn't stop there.",
-              "description": "Have you got the stuff it takes to duke it out on top a moving truck's bed? Go and find out!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzroad.rar"
-        },
-        {
-              "name": "baba's palace",
-              "image": "img/stages/babapalace.png",
-              "imageInfo": "img/stages/ingame/dbpalaceThe witch cackles her ugly laugh, she'll peer into your future, discern into your past, maybe even tell you about the tidings of the present that might've been. But she'll do it.. for a price..png",
-              "wip": false,
-              "sentence": "For the right price the seer will answer anything you ask... but if you dont have the cash, she'll let you earn it facing her legion of horrors. Mind that you don't become part of her collection.",
-              "description": "The outside and entrance to the Seers Alcove stage! Baba awaits, her ghouly guards at the ready.",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbpalace.rar"
-        },
-        {
-              "name": "seer's alcove",
-              "image": "img/stages/seers_alcove.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": false,
-              "sentence": "The witch cackles her ugly laugh, she'll peer into your future, discern into your past, maybe even tell you about the tidings of the present that might've been. But she'll do it.. for a price.",
-              "description": "A large room with in the center a large magical viewing globe, guarded by the witch Baba.",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzball.rar"
-        },
-        {
-              "name": "west city",
-              "image": "img/stages/westcity.png",
-              "imageInfo": "img/stages/ingame/dbcity.png",
-              "wip": false,
-              "sentence": "West city! What a place! The cars, the buildings, the super powered aliens fighting in the streets...",
-              "description": "West City! Home of some famous legends like Captain Chicken and Mr Satan! Today however, West City is the showdown for some less famous individuals, it's certain to make it to the news! The battle is bound to happen here amidst the passing traffic, under the ever watchful eyes of the Champion, Mr.Satan!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbcity.rar"
-        },
-        {
-              "name": "satan city sunset",
-              "image": "img/stages/westcitysunset.png",
-              "imageInfo": "img/stages/ingame/dbcity2.png",
-              "wip": false,
-              "sentence": "This is what you get for letting those damn Androids running around.",
-              "description": "Bla bla bla It's the alternate version of the West City stage!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbcity2.rar"
-        },
-        {
-              "name": "kame house",
-              "image": "img/stages/kamehouse.png",
-              "imageInfo": "img/stages/ingame/dbkame.png",
-              "wip": false,
-              "sentence": "Legends speak of a hermit that has attained immortality, hidden away in the forgotten corners of the ocean...",
-              "description": "Even in this sunny setting, the Z fighters have no chill and need to rough-house!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbkame.rar"
-        },
-        {
-              "name": "kame house sunset",
-              "image": "img/stages/kamehouse_sunset.png",
-              "imageInfo": "img/stages/ingame/dbkamesunset.png",
-              "wip": false,
-              "sentence": "The sunset holds promises for a thousand tomorrows. Move well! Learn well! Play well, eat well and rest well! Enjoy your lives, merrily and to the fullest! The Kame Style is with you",
-              "description": "Even as the sun sets, there is still more rough-housing to be done!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbkamehouse-evening.rar"
-        },
-        {
-              "name": "goku's house",
-              "image": "img/stages/gokuhouse.png",
-              "imageInfo": "img/stages/ingame/dbgokuhouse.png",
-              "wip": false,
-              "sentence": "The smell of baking fills the air, the freshly washed clothes hung to dry and the dinosaurs buzz happily around us. Welcome Home.",
-              "description": "Goku fights his battles anywhere, even in his own backyard! It's also quite a nice place where he lives, he has an amazing cliff view where dinosaurs can be seen strawling or flying by. But Goku's favourite part of his home is without a doubt his wife Chi-Chi, which cooks him many a meal each day! He'll fight anyone or anything to protect her!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbgokuhome.rar"
-        },
-        {
-              "name": "goku's house at night",
-              "image": "img/stages/gokuhousenight.png",
-              "imageInfo": "img/stages/ingame/dbgokuhouse2.png",
-              "wip": false,
-              "sentence": "The night has come and with it the calm and warm atmosphere of Mount Paozu. Everyone is asleep, even the dinosaurs and the beasts... well, not everyone.",
-              "description": "Mount Paozu is a calm place, unheard of that anyone would even live there. Goku however has made it his home, right next to his grandpa's old house. The Son family welcomes any visitors, even at night.",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/Dbgokuhome2.rar"
-        },
-        {
-              "name": "namek",
-              "image": "img/stages/namek.png",
-              "imageInfo": "img/stages/ingame/dbnamek.png",
-              "wip": false,
-              "sentence": "In the vast oceans of the planet of perpetual day, everything is calm... or is it?",
-              "description": "DBZ Namek is another fine, fine example of Daeron's spriting skills. It turned out to be one of my instant favourite stages, with it's vibrant colors and humble but clear detailing. Note the Ginyu frog, and Dende flying across being chased by some Frieza soldiers! Finally, keep an eye out for the famous 'Namek's Last Minutes' stage that Daeron will eventually make! It's the planet Namek after it's been hit in it's core by Frieza's Death Ball. For now, you'll have to do with a more peaceful setting!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbnamek.rar"
-        },
-        {
-              "name": "namek porunga",
-              "image": "img/stages/namekporunga.png",
-              "imageInfo": "img/stages/ingame/dbnamek2.png",
-              "wip": false,
-              "sentence": "WHAT DO YOU WISH FOR!?",
-              "description": "ENTER PORUNGA",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbnamek2.rar"
-        },
-        {
-              "name": "namek dying",
-              "image": "img/stages/namekdying.png",
-              "imageInfo": "img/stages/ingame/dbnamekdying.png",
-              "wip": false,
-              "sentence": "It's a race against the clock, as the very planet is minutes away from bursting!",
-              "description": "Wild gusts of wind, gusts of lava licking your aura, and the very sky crimson as the blood of thousands that are inevitably about to perish. In that respect, a perfect backdrop for the powerful tyrant Freeza to accompany his very presence. But this is no time to be afraid. Giving up here means not only your certain demise, but also that of an entire population of Namekians!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dbnamekdying.rar"
-        },
-        {
-              "name": "kami's lookout",
-              "image": "img/stages/kamilookout.png",
-              "imageInfo": "img/stages/ingame/dblookout.png",
-              "wip": false,
-              "sentence": "High above the clouds, a God with watchful eyes cares over the planet.",
-              "description": "Another homerun stage by Daeron, the Lookout stage has the combatants duking it out sky high!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dblookout.rar"
-        },
-        {
-              "name": "kami's lookout eclipse",
-              "image": "img/stages/kamilookouteclipse.png",
-              "imageInfo": "img/stages/ingame/dblookout2.png",
-              "wip": false,
-              "sentence": "The atmosphere turns eerie, the skies becomes thick and crimson. Tonight, the ghosts roam free!",
-              "description": "Alternate version of the Lookout stage.",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/dblookout2.rar"
-        },
-        {
-              "name": "korin's tower",
-              "image": "img/stages/korintower.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": false,
-              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
-              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
-        },
-        {
-              "name": "neko majin gathering",
-              "image": "img/stages/nekomajingathering.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": false,
-              "sentence": "A group of cats is called a nuisance, Yajirobe always wondered why. That is, until he met Korin's pals...",
-              "description": "Alternate version of the Korin Tower stage. Best stage!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin2.rar"
-        },
-        {
-              "name": "enma's desk",
-              "image": "img/stages/enmadesk.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": true,
-              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
-              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
-        },
-        {
-              "name": "tenshin heights",
-              "image": "img/stages/tenshin_heights.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": true,
-              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
-              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
-        },
-        {
-              "name": "king kai world",
-              "image": "img/stages/kingkai.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": true,
-              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
-              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
-        },
-        {
-              "name": "baba's palace night",
-              "image": "img/stages/baba_night.png",
-              "imageInfo": "img/stages/ingame/dbarctic.png",
-              "wip": true,
-              "sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
-              "description": "You're gonna love this one. Korin zips around in the background, look at him go!",
-              "downloadLink": "http://network.mugenguild.com/balthazar/Z2chars/hdbzkorin.rar"
-        }
+[	{
+		"name": "desert",
+		"image": "img/stages/earth.png",
+		"ingImg": ["img/stages/ingame/desert.png"],
+		"wip": false,
+		"sentence": "In the arid wasteland, lives are ended in the blink of an eye... Blink too long and you might end up missing more than your life.",
+		"description": "Behold, Daeron's first stage made specifically for our Z2 characters! This one is based off some Capcom work..taking some elements here and there, but adding plenty of new ones as well! This is your go-to stage for your Goku vs Vegeta match-ups! The most catchy thing about this stage would be the added Yajirobe background character, who watches the fight safely from behind the rocks.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_desert.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Saibamen.rar"],
+		"dlcText": ["Stage Music (Saibamen theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "desert storm",
+		"image": "img/stages/desert.png",
+		"ingImg": ["img/stages/ingame/desert2.png"],
+		"wip": false,
+		"sentence": "The sand violently leaves its mark against the skin, however, violence drives its point home harder.",
+		"description": "A variation of his initial stage; Desert Storm is a more proper version of some Saiyan Saga action! There is some heavy dust and sand flying all over. It might obscure things a bit, but there's where the fun lies with this stage! Come on, give it a go...",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_desert2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_desert2.rar"],
+		"dlcText": ["Stage Music (Desert Storm theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "arctic",
+		"image": "img/stages/arctic.png",
+		"ingImg": ["img/stages/ingame/arctic.png"],
+		"wip": false,
+		"sentence": "The wind chills with a cold demeanor.. the battle burns hotly regardless.",
+		"description": "A fight on a floating body of ice? Sounds like fun. Who'd have known, this is where the Red Ribbon army hides? Looks like their base of operations is pretty wiped out... No time to enjoy the scenery anyway, keep moving or your feet'll freeze to the surface! Put up your dukes!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_arctic.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_artic.rar"],
+		"dlcText": ["Stage Music (Arctic - Dynamic theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "time chamber fire and ice",
+		"image": "img/stages/timechamberfireandice.png",
+		"ingImg": ["img/stages/ingame/chamber.png"],
+		"wip": false,
+		"sentence": "Sizzling flame and freezing gusts of wind disperse through the arid whiteness...",
+		"description": "Behold, the innards of the Hyperbolic Time Chamber, or the Room of Spirit and Time, whichever you prefer! This is top Training stage material!!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_chamber.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_chamber.rar"],
+		"dlcText": ["Stage Music (Hyperbolic Time Chamber theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "time chamber aurora",
+		"image": "img/stages/timechamberaurora.png",
+		"ingImg": ["img/stages/ingame/chamber2.png"],
+		"wip": false,
+		"sentence": "Deep inside the depths of the chamber, ancient gears and clockwork grind time to a still...",
+		"description": "This is the alternate version of the Time Chamber, which has the aurora in the background, based off it's appearance in the DBZ Budokai games.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_chamber2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_chamber2.rar"],
+		"dlcText": ["Stage Music (Moon Battlefield theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "tenkaichi budokai",
+		"image": "img/stages/tenkaichi.png",
+		"ingImg": ["img/stages/ingame/tenka.png"],
+		"wip": false,
+		"sentence": "Legends are not born, they are forged, molded and tempered under the heat of battle. This sacred arena has forged the greatest champs the world has seen. All may enter the Tenkaichi to test their mettle, but few become champs.",
+		"description": "A stage that's long overdue, here is our version World Tournament! It's after-hours, so no crowd. The download comes with both the regular version and the Announcer version.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_tenka.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Satan.rar", "https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_tenka.rar"],
+		"dlcText": ["Stage Music #1 (Mr.Satan theme by DaMarcus008)",  "Stage Music #2 (World Tournament by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "tenkaichi budokai night",
+		"image": "img/stages/tenkaichi2.png",
+		"ingImg": ["img/stages/ingame/tenka2.png"],
+		"wip": false,
+		"sentence": "its a party in the sky and a celebration in the arena. The world budokai tenkaichi martial arts tournament has gathered once more, champions from around the world with majestic techniques and fantastic skills. Who will become the Grand Champion?",
+		"description": "While everyone is out partying, you lot are solitarily duking it out...well...have at it!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_tenka2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_tenka2.rar"],
+        	"dlcText": ["Stage Music (Future Trunks theme by DaMarcus008 x WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "saiyan pride",
+		"image": "img/stages/saiyanpride.png",
+		"ingImg": ["img/stages/ingame/pride.png"],
+		"wip": false,
+		"sentence": "In space no one can hear you scream, some, will make a point out of making you scream.",
+		"description": "There's one thing a Saiyan always keeps- his PRIDE! Even in SPACE!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_pride.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/SSJ_Vegeta.rar"],
+        	"dlcText": ["Stage Music (SSJ Vegeta theme by DaMarcus008)"]
+	},
+	{
+		"name": "space",
+		"image": "img/stages/space.png",
+		"ingImg": ["img/stages/ingame/space2.png"],
+		"wip": false,
+		"sentence": "In space, no one can hear you scream...except for the God of Destruction!",
+		"description": "Under the watch of Beerus, fighters clash in the vastness of space. Among floating meteorite debris, the heat is on!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_space.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_space.rar"],
+        	"dlcText": ["Stage Music (To Go Even Further Beyond! by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "evo 2014",
+		"image": "img/stages/evo.png",
+		"ingImg": ["img/stages/ingame/evo.png"],
+		"wip": false,
+		"sentence": "The city is dark but the roars and cheers of the crowd keep it alive. Witness history in the making",
+		"description": "Who'd have thought a MUGEN game would get a side stream at an event as huge as EVO? Well, that's what happened back in 2014! We're glad to say the game's reception has been immensely positive and it's been streamed at a previous fighting game tournament, and we were so hyped to hear it will get played at EVO, so for that occasion, Daeron was chained and whipped until a 'thank you' stage came out of his hands and he delivered!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_evo.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_space.rar"],
+        	"dlcText": ["Stage Music (Evo 2014 theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "gravity chamber",
+		"image": "img/stages/grav.png",
+		"ingImg": ["img/stages/ingame/grav.png"],
+		"wip": false,
+		"sentence": "Your body will break. Your bones will shatter. Your muscles will twist. But your mind...your mind won't give up. This is the essence of training. Breaking and reforging yourself until you're a weapon that even the Gods will fear.",
+		"description": "This is your new go-to Training Mode stage! This download contains both the 'gravity effects' version and the 'basic' variant (where things remain nice and unobstructed).",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_grav.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Vegeta.rar", "https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_grav.rar"],
+        	"dlcText": ["Stage Music (Vegeta theme by DaMarcus008)", "Stage Music (Gravity Chamber theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "mountain road",
+		"image": "img/stages/mountainroad.png",
+		"ingImg": ["img/stages/ingame/road.png"],
+		"wip": false,
+		"sentence": "As the catastrophe looms, powerful blows are exchanged amidst the velocity and the chaos. At any moment the collision threatens to end this... but we all know it wouldn't stop there.",
+		"description": "Have you got the stuff it takes to duke it out on top a moving truck's bed? Go and find out!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_road.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Android_18.rar"],
+        	"dlcText": ["Stage Music (Eighteen theme by DaMarcus008)"]
+	},
+	{
+		"name": "baba's palace",
+		"image": "img/stages/babapalace.png",
+		"ingImg": ["img/stages/ingame/palace.png"],
+		"wip": false,
+		"sentence": "For the right price the seer will answer anything you ask... but if you dont have the cash, she'll let you earn it facing her legion of horrors. Mind that you don't become part of her collection.",
+		"description": "The outside and entrance to the Seers Alcove stage! Baba awaits, her ghouly guards at the ready.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_palace.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_palace.rar"],
+        	"dlcText": ["Stage Music (Baba's Palace theme by DaMarcus008)"]
+	},
+	{
+		"name": "baba's palace night",
+		"image": "img/stages/baba_night.png",
+		"ingImg": ["img/stages/ingame/palace2.png"],
+		"wip": false,
+		"sentence": "Things darker and more dangerous might lurk in the shadows, but very few of them will be as delighted as they pull out your limbs one by one",
+		"description": "Under the threatening eyes of many assassins, can you still perform at your peak level?",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_palace2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Golden_Freeza.rar"],
+        	"dlcText": ["Stage Music (Golden Freeza theme by DaMarcus008)"]
+	},
+	{
+		"name": "seer's alcove",
+		"image": "img/stages/seers_alcove.png",
+		"ingImg": ["img/stages/ingame/ball.png"],
+		"wip": false,
+		"sentence": "The witch cackles her ugly laugh, she'll peer into your future, discern into your past, maybe even tell you about the tidings of the present that might've been. But she'll do it.. for a price.",
+		"description": "A large room with in the center a large magical viewing globe, guarded by the witch Baba.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_ball.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Babidi.rar"],
+        	"dlcText": ["Stage Music (Babidi's theme by DaMarcus008)"]
+	},
+	{
+		"name": "satan city",
+		"image": "img/stages/westcity.png",
+		"ingImg": ["img/stages/ingame/city.png"],
+		"wip": false,
+		"sentence": "West city! What a place! The cars, the buildings, the super powered aliens fighting in the streets...",
+		"description": "West City! Home of some famous legends like Captain Chicken and Mr Satan! Today however, West City is the showdown for some less famous individuals, it's certain to make it to the news! The battle is bound to happen here amidst the passing traffic, under the ever watchful eyes of the Champion, Mr.Satan!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_city.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_city.rar"],
+        	"dlcText": ["Stage Music (West City theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "satan city sunset",
+		"image": "img/stages/westcitysunset.png",
+		"ingImg": ["img/stages/ingame/city2.png"],
+		"wip": false,
+		"sentence": "This is what you get for letting those damn Androids running around.",
+		"description": "Hey! What the heck! It's on fire!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_city2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Majin_Vegeta.rar"],
+        	"dlcText": ["Stage Music (Majin Vegeta's theme by DaMarcus008)"]
+	},
+	{
+		"name": "kame house",
+		"image": "img/stages/kamehouse.png",
+		"ingImg": ["img/stages/ingame/kamehouse.png"],
+		"wip": false,
+		"sentence": "Legends speak of a hermit who has attained immortality, hidden away in the forgotten corners of the ocean...",
+		"description": "Even in this sunny setting, the Z fighters have no chill and need to rough-house!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_kamehouse.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_kamehouse.rar"],
+        	"dlcText": ["Stage Music (Kame House theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "kame house sunset",
+		"image": "img/stages/kamehouse_sunset.png",
+		"ingImg": ["img/stages/ingame/kamehouse2.png"],
+		"wip": false,
+		"sentence": "The sunset holds promises for a thousand tomorrows. Move well! Learn well! Play well, eat well and rest well! Enjoy your lives, merrily and to the fullest! The Kame Style is with you",
+		"description": "Even as the sun sets, there is still more rough-housing to be done!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_kamehouse2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Krillin.rar"],
+        	"dlcText": ["Stage Music (Krillin's theme by DaMarcus008)"]
+	},
+	{
+		"name": "turnip field",
+		"image": "img/stages/turnips.png",
+		"ingImg": ["img/stages/ingame/turnips.png"],
+		"wip": false,
+		"sentence": "An healthy farmstyle livin' makes for a healthy farmer...and if some of 'dem aliens come messing about, Nozu's got a little piece of artillery lying around to deal with them critters.",
+		"description": "Instead of fighting, wouldn't you rather pick some ripe turnips?",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_turnips.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Farmer.rar"],
+        	"dlcText": ["Stage Music (Farmer's theme - Techno version by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "pilaf castle",
+		"image": "img/stages/pilafcastle.png",
+		"ingImg": ["img/stages/ingame/pilafcastle.png"],
+		"wip": false,
+		"sentence": "You'll rue the day you crossed paths with the most glorious Indigo overlord",
+		"description": "The gang's hideout and possible treasure storage.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_pilaf.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Pilaf.rar"],
+        	"dlcText": ["Stage Music (Pilaf's theme by DaMarcus008)"]
+	},
+	{
+		"name": "tenshin heights",
+		"image": "img/stages/tenshin_heights.png",
+		"ingImg": ["img/stages/ingame/tenshin.png"],
+		"wip": false,
+		"sentence": "Life is like the wind, continuously flowing. Sometimes it's swift and soft and sometimes rough and violent. Calm and steady but able to destroy whole mountains.\nThe man that walks the windy mountain paths has become like the Crane,\nthe skies are his home and the mountains his perch.",
+		"description": "A soft breeze stage to calm your thoughts and sharpen your skills",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_tenshin.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Tien.rar"],
+        	"dlcText": ["Stage Music (TenShinHan's theme by DaMarcus008)"]
+	},
+	{
+		"name": "goku's house",
+		"image": "img/stages/gokuhouse.png",
+		"ingImg": ["img/stages/ingame/gokuhouse.png"],
+		"wip": false,
+		"sentence": "The smell of baking fills the air, the freshly washed clothes hung to dry and the dinosaurs buzz happily around us. Welcome Home.",
+		"description": "Goku fights his battles anywhere, even in his own backyard! It's also quite a nice place where he lives, he has an amazing cliff view where dinosaurs can be seen strawling or flying by. But Goku's favourite part of his home is without a doubt his wife Chi-Chi, which cooks him many a meal each day! He'll fight anyone or anything to protect her!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_gokuhome.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_gokuhome.rar"],
+        	"dlcText": ["Stage Music (Goku's theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "goku's house at night",
+		"image": "img/stages/gokuhousenight.png",
+		"ingImg": ["img/stages/ingame/gokuhouse2.png"],
+		"wip": false,
+		"sentence": "The night has come and with it the calm and warm atmosphere of Mount Paozu. Everyone is asleep, even the dinosaurs and the beasts... well, not everyone.",
+		"description": "Mount Paozu is a calm place, unheard of that anyone would even live there. Goku however has made it his home, right next to his grandpa's old house. The Son family welcomes any visitors, even at night.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_gokuhome2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_gokuhome2.rar"],
+        	"dlcText": ["Stage Music (Goku House - Evening theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "namek",
+		"image": "img/stages/namek.png",
+		"ingImg": ["img/stages/ingame/namek.png"],
+		"wip": false,
+		"sentence": "In the vast oceans of the planet of perpetual day, everything is calm... or is it?",
+		"description": "Namek is another fine, fine example of Daeron's spriting skills. It turned out to be an instant favourite, with its vibrant colors and clear detailing. Note the Ginyu frog and Dende flying across being chased by some nasty Freeza Force soldiers!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_namek.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_namek.rar"],
+        	"dlcText": ["Stage Music (Namek theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "namek porunga",
+		"image": "img/stages/namekporunga.png",
+		"ingImg": ["img/stages/ingame/namek2.png"],
+		"wip": false,
+		"sentence": "The Namekians are adepts of old arcane forces, weaving reality into wishing spheres being their ultimate weapon...come Porunga...grant us our wishes",
+		"description": "The sky turns an eerie black and the immensely giant Namekian Dragon Porunga looms over the puny fighters.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_namek2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_namek2.rar"],
+        	"dlcText": ["Stage Music (Porunga theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "namek dying",
+		"image": "img/stages/namekdying.png",
+		"ingImg": ["img/stages/ingame/namekdying.png"],
+		"wip": false,
+		"sentence": "It's a race against the clock, as the very planet is minutes away from bursting!",
+		"description": "Wild gusts of wind, gusts of lava licking your aura and the sky crimson as the blood of thousands that are inevitably about to perish. In that respect, a perfect backdrop for the powerful tyrant Freeza. But this is no time to be afraid. Giving up here means not only your certain demise, but also that of the entire population of Namek!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50//hdbz_namekdying.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Freeza.rar"],
+        	"dlcText": ["Stage Music (Freeza's theme by DaMarcus008)"]
+	},
+	{
+		"name": "korin's tower",
+		"image": "img/stages/korintower.png",
+		"ingImg": ["img/stages/ingame/korin.png"],
+		"wip": false,
+		"sentence": "Legends tell of the white noble spirit that inhabits the tower, high in the sky, watching over the lands. The legends are partially right... for how noble can a spirit really be when he can be bribed with tuna?",
+		"description": "You're gonna love this one. Korin zips around in the background, look at him go!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_korin.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_korin.rar"],
+        	"dlcText": ["Stage Music (Korin's Tower theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "neko majin gathering",
+		"image": "img/stages/nekomajingathering.png",
+		"ingImg": ["img/stages/ingame/korin2.png"],
+		"wip": false,
+		"sentence": "A group of cats is called a nuisance, Yajirobe always wondered why. That is, until he met Korin's pals...",
+		"description": "Alternate version of the Korin Tower stage. It's a full-on cat party! And nothing like that weird musical!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_korin2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Gohan.rar"],
+        	"dlcText": ["Stage Music (Gohan's theme by DaMarcus008)"]
+	},
+	{
+		"name": "kami's lookout",
+		"image": "img/stages/kamilookout.png",
+		"ingImg": ["img/stages/ingame/lookout.png"],
+		"wip": false,
+		"sentence": "High above the clouds, a God with watchful eyes cares over the planet.",
+		"description": "Another homerun stage by Daeron, the Lookout stage has the combatants duking it out sky high!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_lookout.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Vegetto.rar"],
+        	"dlcText": ["Stage Music (Vegetto's theme by DaMarcus008)"]
+	},
+	{
+		"name": "kami's lookout eclipse",
+		"image": "img/stages/kamilookouteclipse.png",
+		"ingImg": ["img/stages/ingame/lookout2.png"],
+		"wip": false,
+		"sentence": "The atmosphere turns eerie, the skies becomes thick and crimson. Tonight, the ghosts roam free!",
+		"description": "Alternate version of the Lookout stage.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_lookout2.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_lookout2.rar"],
+        	"dlcText": ["Stage Music (Kami's Lookout theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "snake way",
+		"image": "img/stages/snakeway.png",
+		"ingImg": ["img/stages/ingame/snake.png"],
+		"wip": false,
+		"sentence": "Those souls that did mighty acts in life find themselves upon the snakeway. Its long winding roads stuck between heaven and hell.. It's said that the Overseers of the universe await at the end, willing to bestow their gifts of training and power to those deserving.",
+		"description": "You know what to look out for...don't fall off!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_snake.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Goku.rar"],
+        	"dlcText": ["Stage Music (Goku's theme by DaMarcus008)"]
+	},
+	{
+		"name": "enma's desk",
+		"image": "img/stages/enmadesk.png",
+		"ingImg": ["img/stages/ingame/enma.png"],
+		"wip": false,
+		"sentence": "At the gates of the dead he awaits, ready to balance all the deeds you done in life and decide your fate. That usually works out, but its a hard job that warrants all his attention... no commotions shall distract the great King Enma from his Godly work.",
+		"description": "For purgatory, this place is pretty neat.",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_enma.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Piccolo.rar"],
+        	"dlcText": ["Stage Music (Piccolo's theme by DaMarcus008)"]
+	},
+	{
+		"name": "king kai world",
+		"image": "img/stages/kingkai.png",
+		"ingImg": ["img/stages/ingame/kaioh.png"],
+		"wip": false,
+		"sentence": "The indigo King awaits upon his planet, you've certainly faced many tribulations to get here warrior, but now you must appease the king. He demands a joke. Watch that you don't make yourself one.",
+		"description": "Available in 'normal' and 'Endless' variants, which are both included in the download below! The Endless version, as you may expect, has no true walls, so you can circle around the planet over and over!",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_kaioh.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/SSJ_Goku.rar"],
+        	"dlcText": ["Stage Music (SSJ Goku's theme by DaMarcus008)"]
+	},
+	{
+		"name": "inside Buu",
+		"image": "img/stages/buu.png",
+		"ingImg": ["img/stages/ingame/buu.png"],
+		"wip": false,
+		"sentence": "If something can be said about the monster known as Buu, is that there is always room for dessert.",
+		"description": "This place looks like it smells real nasty...",
+		"downloadLink": "https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_buu.rar",
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Buu.rar"],
+        	"dlcText": ["Stage Music (Buu's theme by DaMarcus008)"]
+	},
+	{
+		"name": "T o P",
+		"image": "img/stages/top.png",
+		"ingImg": ["img/stages/ingame/top.png"],
+		"wip": false,
+		"sentence": "12 universes. Teeming with life, teeming with adventure, hope, sorrow, dreams and nightmares. And then there are the Gods, sitting on their thrones they throw their heralds at each other seeking to prove their universe's mettle. Aboard the Tournament of Power arena, all fight for the sake of their universes, heroes and villains alike. The clock is ticking, the Gods observe from above.",
+		"description": "Wonderfully put together by spriter Pansh and tester/coder Toni, this stage is a true spectacle.",
+		"downloadLink": ["https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_top.rar"],
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Jiren.rar"],
+        	"dlcText": ["Stage Music (Jiren's theme by DaMarcus008)"]
+	},
+	{
+		"name": "capsule corp hangar",
+		"image": "img/stages/hangar.png",
+		"ingImg": ["img/stages/ingame/hangar.png"],
+		"wip": true,
+		"sentence": "Mastering the edges of science has become a hobby of sorts for the Briefs family. Everyone needs a place to keep their cool stuff and now everyone can keep it in their pocket.",
+		"description": "Sprited by Pansh and coded by Toni.",
+		"downloadLink": ["https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_hangar.rar"],
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_hangar.rar"],
+        	"dlcText": ["Stage Music (Capsule Corporation Hangar theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "sea coast",
+		"image": "img/stages/seacoast.png",
+		"ingImg": ["img/stages/ingame/seacoast.png"],
+		"wip": true,
+		"sentence": "Bright blue skies and a waterfront for miles, a bargain the realtor said...and then the explosions started.",
+		"description": "Sprited and coded with Hyper DBZ in mind by Bob Lee, he was kind enough to let us use his beautiful stages. The download includes both the daytime, night and sunset versions of the stage! Tweaks and edits done by  Toni.",
+		"downloadLink": ["https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_seacoasts.rar"],
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_seacoast.rar"],
+        	"dlcText": ["Stage Music (Sea Coast themes (all three variants) by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "planet zoon",
+		"image": "img/stages/planetzoon.png",
+		"ingImg": ["img/stages/ingame/planetzoon.png"],
+		"wip": true,
+		"sentence": "Air thick as molasses, the gravity itself strapping everyone down. A person could easily be outmaneuvered by someone used to move around in these conditions...",
+		"description": "Sprited and coded with Hyper DBZ in mind by Bob Lee, he was kind enough to let us use this stage. Tweaks and edits done by  Toni.",
+		"downloadLink": ["https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_planetzun.rar"],
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_zoon.rar"],
+        	"dlcText": ["Stage Music (Planet Zun theme by WizzyWhipItWonderful)"]
+	},
+	{
+		"name": "the husk of humanity",
+		"image": "img/stages/husk.png",
+		"ingImg": ["img/stages/ingame/husk.png"],
+		"wip": true,
+		"sentence": "Humanity was resilient. Was. The gods thrive now in this dark place. However, this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.",
+		"description": "Made by Alpha Proto and Toni and XGargoyle",
+		"downloadLink": ["https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_husk.rar"],
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/Black.rar"],
+        	"dlcText": ["Stage Music (Goku Black's theme by DaMarcus008)"]
+	},
+	{
+		"name": "hell",
+		"image": "img/stages/hell.png",
+		"ingImg": ["img/stages/ingame/hell.png"],
+		"wip": true,
+		"sentence": "There was supposed to be a place reserved in hell for me, and that place was the throne...not this, never this!!!!! Freeza screamed, unaware that nearby, the fairies and plush bears were coming to serenade him.",
+		"description": "Sprited by Alpha Proto and coded by Toni.",
+		"downloadLink": ["https://network.mugenguild.com/balthazar/HDBZ/stages50/hdbz_hell.rar"],
+		"dlcLinks": ["https://network.mugenguild.com/balthazar/HDBZ/music50/hdbz_hell.rar"],
+        	"dlcText": ["Stage Music (Freeza's Hell theme by WizzyWhipItWonderful)"]
+	}
 ]
